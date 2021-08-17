@@ -249,5 +249,6 @@ async def on_member_join(member):
 
 keep_alive.keep_alive()
 
+Token = "--------------------------------------------------" #token id of the bot
 
-client.run('ODQzNzA1OTk5NTU0OTA0MTE0.YKHwcQ.lW_4FT9jLCppcvjfs_Dog6Fprzw') 
+client.run(Token) 
